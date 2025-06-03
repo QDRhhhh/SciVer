@@ -1,5 +1,11 @@
 # SCIVER: A Benchmark for Multimodal Scientific Claim Verification
 
+<p align="center">
+  <a href="https://github.com/QDRhhhh/SciVer">🌐 Github</a> •
+  <a href="">📖 Paper</a> •
+  <a href="https://huggingface.co/datasets/chengyewang/SciVer">🤗 Data</a>
+</p>
+
 ## 📰 News
 - [May 15, 2025] SciVer has been accepted by ACL 2025 Main!
 
