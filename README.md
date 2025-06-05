@@ -29,7 +29,7 @@
   - Analytical
 - 📚 Context includes **text paragraphs, multiple tables, and charts**
 - 🔍 Labels: `Entailed`, `Refuted`
-- 📈 Evaluated across **21 leading foundation models**, including GPT-4o, Gemini, Claude 3.5, Qwen2.5-VL, LLaMA-3.2-Vision, etc.
+- 📈 Evaluated across **21 leading foundation models**, including o4-mini, GPT-4o, Claude 3.5, Qwen2.5-VL, LLaMA-3.2-Vision, etc.
 - ⚖️ Includes **step-by-step rationale** and **automated accuracy evaluation**
 
 ------
