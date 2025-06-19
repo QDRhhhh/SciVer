@@ -120,3 +120,20 @@ We welcome contributions for:
 - 🧬 Domain extension (e.g., biology, medicine)
 - 🔧 Additional model adapters
 - 📈 New evaluation metrics and visualization tools
+
+## ✍️ Citation
+
+If you use our work and are inspired by our work, please consider cite us:
+
+```
+@misc{wang2025sciver,
+      title={SciVer: Evaluating Foundation Models for Multimodal Scientific Claim Verification}, 
+      author={Chengye Wang and Yifei Shen and Zexi Kuang and Arman Cohan and Yilun Zhao},
+      year={2025},
+      eprint={2506.15569},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2506.15569}, 
+}
+```
+
