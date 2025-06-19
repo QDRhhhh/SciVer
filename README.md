@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/QDRhhhh/SciVer">🌐 Github</a> •
-  <a href="">📖 Paper</a> •
+  <a href="https://arxiv.org/abs/2506.15569">📖 Paper</a> •
   <a href="https://huggingface.co/datasets/chengyewang/SciVer">🤗 Data</a>
 </p>
 
